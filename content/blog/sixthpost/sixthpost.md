@@ -9,7 +9,7 @@ tags: 11ty
 
 ## some picture
 
-![shark.jpg](./shark.jpg)
+![shark.jpg](./shark2.jpg)
 
 
 ```go
