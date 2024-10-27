@@ -9,8 +9,6 @@ tags: 11ty
 
 ## some picture
 
-![leetcode.bmp](./qtmlg0pf.bmp)
-
 ![shark.jpg](./shark.jpg)
 
 
