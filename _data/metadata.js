@@ -1,5 +1,5 @@
 export default {
-	title: "Dylan Liu",
+	title: "Dylan's Blog",
 	url: "https://www.linkedin.com/in/dylanliu-dev/",
 	language: "en",
 	description: "A passionate software engineer who loves to build things.",
